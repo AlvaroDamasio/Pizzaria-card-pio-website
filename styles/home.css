@@ -25,15 +25,7 @@
 .home-text p{
     margin: 2rem 0;
 }
-.home-btn{
-    padding: 15px 45px;
-    background-color: var(--primary);
-    color: var(--white);
-    border-radius: 10px;
-    font-weight: 500;
-    transition: all 0.5s;
-    margin: 10px;
-}
+
 .home-btn:hover{
     background-color: var(--secondary);
 }
