@@ -1,6 +1,6 @@
 .home{
     width: 100%;
-    height: 100vh;
+    height: calc(100vh + 72px);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -31,13 +31,13 @@
 }
 
 .home-img{
-    width: 100%;
+    width: 50%;
     height: 100%; 
 }
 .home-img img{
     
-    width: 520px;
-    height: 100%; 
+    width: 480px;
+    height: 480px; 
 }
 
 @media (max-width:785px) {
